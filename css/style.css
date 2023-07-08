@@ -47,10 +47,6 @@ h3{
     margin:5px 0;
 }
 
-.recipes{
-    background-color: antiquewhite;
-}
-
 a{
     text-decoration: none;
 }
@@ -66,5 +62,5 @@ a{
 }
 
 .item:hover{
-    background-color: rgb(241, 120, 120);
+    background-color:burlywood;
 }
